@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://username:password@host:port/database_name",
+    "prod_uri": "mysql://username:password@host:port/database_name",
+    "fb_url": "https://facebook.com",
+    "github_url": "https://github.com",
+    "twitter_url": "https://twitter.com",
+    "blog_name": "Pro Thunder",
+    "blog_description": "Heaven for Programmers",
+    "gmail_user": "abc@gmail.com",
+    "gmail_password": "1234",
+    "about_page_text": "Hi! I am a Software Engineer. Building Blog App with Python micro-framework Flask.",
+    "no_of_posts": 3,
+    "admin_user": "admin",
+    "admin_password": "admin123",
+    "upload_location": "Add path here"
+  }
+}
