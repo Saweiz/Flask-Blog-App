@@ -7,13 +7,13 @@ This is `Flask` based Blog app with `MySQL` (ORM) at backend. It has four sectio
 1. Posts Page:
    Global users who visit website can see the posts uploaded by admin. Pagination is implemented at backend.
 
-2. Contact Page
-   If they want to contact admin, they can fill the contact form which asks there name, contact no., email, and any message they want to deliver.
+2. Contact Page:
+   If users want to contact admin, they can fill the contact form which asks there name, contact no., email, and any message they want to deliver.
 
-3. About Page
+3. About Page:
    Here admin can write introductory information of his Blog website, his purpose, and any information he wants to deliver to his readers.
 
-4. Dashboard (For Admin only)
+4. Dashboard (For Admin only):
    Admin (website owner) has to login via credentials. And then he can create, delete, and update posts. 
 
 
